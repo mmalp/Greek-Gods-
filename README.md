@@ -10,7 +10,7 @@ It would like this plugin, the download can be found on spigotmc.
 If you find any bugs, please join my discord server and report them.
 
 
-Download page:
+Download page: https://www.spigotmc.org/resources/greek-gods.97159/
 
 Discord server: https://discord.gg/MMQpAGrycg 
 
