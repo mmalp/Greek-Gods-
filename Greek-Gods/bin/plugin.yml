@@ -1,0 +1,8 @@
+main: me.AgentAxolotl.Gods.Main
+name: Greek-Gods
+version: 1.0
+author: AgentAxolotl
+api-version: 1.13
+
+commands:
+   god-items:
